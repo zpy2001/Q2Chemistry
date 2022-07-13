@@ -88,8 +88,6 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
-  header:
-    image: /assets/images/head1.jpg
   # _posts
   - scope:
       path: ""
@@ -108,7 +106,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  - header:
+    image: /assets/images/head1.jpg
 category_archive:
   type: liquid
   path: /categories/
