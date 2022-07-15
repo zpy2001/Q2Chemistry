@@ -1,35 +1,36 @@
 ---
-title: "Home Example Page"
+title: "Q<sup>2</sup>Chemistry"
 layout: splash
-permalink: /splash-page/ 
-date: 2016-03-23T11:48:41-04:00
+permalink: 
+date: 2022-07-15T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/Quantum-Solutions.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Read more"
+      url: "https://github.com/QuantumICT/SWQCQC"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "We developed an efficient VQE simulator for quantum chemistry named <i>Q<sup>2</sup>Chemistry</i>>. Read more to check our code example"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Our world is fundamentally quantum mechanical. '
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/circ_hea.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    title: "Hardware efficient circuit"
+    excerpt: "The two-layer hardware efficient circuit which entangles all neighbouring qubits using the <b>controlled-U</b>> gate"
+  - image_path: /assets/images/procedue.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "A demonstrative procedure"
+    excerpt: "A demonstrative procedure for MPS-based quantum circuit simulation"
+    url: "https://zpy2001.github.io/Q2Chemistry/blog/welcome-to-Q2C-web/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/scaling-h2o.jpg
+    alt: "placeholder image 3"
+    title: "Simulating benzene molecule"
+    excerpt: "The scaling of the Q<sup>2</sup>Chemistry simulating a benzene molecule (STO-3G basis set) using the Julia MPS backend"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -65,4 +66,3 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
-
