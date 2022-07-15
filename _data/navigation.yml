@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /splash-page/
+    url: https://zpy2001.github.io/Q2Chemistry/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
