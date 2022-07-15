@@ -1,5 +1,5 @@
 ---
-title: "Introduction for Q2Chemistry"
+title: "Introduction for Q<sup>2</sup>Chemistry"
 categories:
   - blog
 tags:
