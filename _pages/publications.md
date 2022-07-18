@@ -3,7 +3,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# Publications 
 
 <div class="pub-full-list">
     <div class="pub-year">
@@ -26,7 +25,7 @@ permalink: /publications/
          </tr>
         
       <tr>
-           <td width="100%" height="70"><span lang="EN-US"><ol start="3"><li>
+           <td width="100%" height="70"><span lang="EN-US"><ol start="2"><li>
               <b>Assignment 2</b><br>
               Zhou Pengyu <br>           
               <em>UCAS compiler principle class</em> <b>2022</b>, score:10.
@@ -36,7 +35,7 @@ permalink: /publications/
          </tr>
 
       <tr>
-           <td width="100%" height="70"><span lang="EN-US"><ol start="3"><li>
+           <td width="100%" height="70"><span lang="EN-US"><ol start="1"><li>
               <b>Assignment 3</b><br>
               Zhou Pengyu <br>           
               <em>UCAS compiler principle class</em> <b>2022</b>, score:10.
@@ -45,7 +44,4 @@ permalink: /publications/
             </span></td>
          </tr>
         
-        </table>
-        </div>
-    </div>
 </div>
