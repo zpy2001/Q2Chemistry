@@ -43,5 +43,3 @@ permalink: /publications/
               </li></ol>
             </span></td>
          </tr>
-        
-</div>
