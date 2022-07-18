@@ -3,7 +3,7 @@ title: "Resources"
 permalink: /resources/
 ---
 
-##Code
+## Code
 
 - [SWQCQC repo][SWQCQC]
 
