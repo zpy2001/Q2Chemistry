@@ -3,7 +3,7 @@ title: "Q<sup>2</sup>Chemistry"
 layout: splash
 permalink: 
 date: 2022-07-15T11:48:41-04:00
-header:
+<!-- header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/headers.jpg
@@ -11,7 +11,109 @@ header:
     - label: "Read more"
       url: "https://github.com/QuantumICT/SWQCQC"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "We developed an efficient VQE simulator for quantum chemistry named <i>Q<sup>2</sup>Chemistry</i>. Read more to check our code example"
+excerpt: "We developed an efficient VQE simulator for quantum chemistry named <i>Q<sup>2</sup>Chemistry</i>. Read more to check our code example" -->
+<div class="slider">
+	<div class="sub-slider">
+    	<ul>
+
+            <!--幻灯片开始！-->
+            <li style="margin-left:40px;">
+            	<div class="sub-slider-pic">
+            		<!--图片大小：400px(W)*300px(H)-->
+                    <img src="/assets/images/headers.jpg" alt="pic" />
+                </div>
+                <div class="sub-slider-text">
+            		<p class="sub-slider-text-title">
+                    	Ruziniu Games 
+                    </p>
+                    <p class="sub-slider-text-time">
+                    	East campus, USTC. Apr 25, 2019.
+                    </p>
+                    <p class="sub-slider-text-summary">
+                    	Our group (敲键盘队) won the championship in the Ruziniu <br>
+                                Games (孺子牛杯师生运动会) organized by School of  <br>
+                                Chemistry and Materials Science, University of Science and <br> 
+                                Technology of China in Apr 25, 2019. We enjoyed the fun <br>
+                                games and are pround of our teamwork.
+                    </p>
+                </div>
+            </li>
+            <!--幻灯片结束！-->
+
+           <!--幻灯片开始！-->
+           <li >
+            	<div class="sub-slider-pic">
+            		<!--图片大小：400px(W)*300px(H)-->
+                    <img src="/assets/images/headers.jpg" alt="pic" />
+                </div>
+                <div class="sub-slider-text">
+            		<p class="sub-slider-text-title">
+                    	Atomistic Simulations of Graphene Growth
+                    </p>
+                    <p class="sub-slider-text-time">
+                    	Acc. Chem. Res. 2018, 51, 728.
+                    </p>
+                    <p class="sub-slider-text-summary">
+                    	Recent progesses made in our group demonstrate that <br>
+                                atomistic simulations can unambiguously produce or    <br>
+                                reproduce the kinetic information on graphene growth,<br>
+                                which is pivotal to understanding the growth mechanism <br>
+                                and designing better growth protocols. A similar strategy <br>
+                                is expected to be used in growth mechanism studies of <br>
+                                other two-dimensional atomic crystals.
+                    </p>
+                </div>
+            </li>
+            <!--幻灯片结束！-->
+
+            <!--幻灯片开始！-->
+            <li >
+            	<div class="sub-slider-pic">
+            		<!--图片大小：400px(W)*300px(H)-->
+                    <img src="/assets/images/headers.jpg" alt="pic" />
+                </div>
+                <div class="sub-slider-text">
+            		<p class="sub-slider-text-title">
+                    	Pacman Mechnism in Graphene Cutting
+                    </p>
+                    <p class="sub-slider-text-time">
+                    	Angew. Chem. Int. Ed. 2016, 55, 9918–9921.
+                    </p>
+                    <p class="sub-slider-text-summary">
+                    	A "Pac-Man" mechanism is revealed for the metal-nanoparticle-catalyzed cutting of graphene by employing a
+                        multiscale simulation approach. Although the overall cutting rate is proportional to the surface area
+                        of the nanoparticle, the rate-limiting step of graphene cutting is actually at the
+                        graphene-metal interface. Such an apparent inconsistency turns out to be a result of the
+                        distinct etching behaviors at zigzag and armchair edge sites. 
+                    </p>
+                </div>
+            </li>
+            <!--幻灯片结束！-->
+
+        </ul>
+    </div>
+</div>
+<script type="text/javascript">
+$(document).ready(
+/*控制首页幻灯片样式*/
+	function(){$(".sub-slider").nbspSlider({
+	widths:         "980px",        // 幻灯片宽度
+	heights:        "300px",        // 幻灯片高度
+	autoplay:       1,              // 是否自动播放幻灯片(1为是0为否)
+	delays:         10000,           // 自动播放--间隔(毫秒)
+	prevId:         'prevBtn',      // 上一张幻灯片按钮ID
+	nextId:         'nextBtn',      // 下一张幻灯片按钮ID
+	effect:         'horizontal',   // horizontal、vertical、fade、none == 特效：横向、竖向、淡出、无特效
+	speeds:         500,            // 幻灯片切换的速度(毫秒)
+	starEndNoEff:     0,            // 开始与结束中间无动画效果(1为是0为否)
+	preNexBtnShow:    1,            // 是否显示上一张下一张按钮
+	numBtnSty:        "roundness",        // num、square、circle、roundness、rectangle == 数字、正方形、圆圈、圆形、长方形
+	numBtnShow:       "1"
+	});
+	$(".sub-slider").hover(function(){$(".sliderBtn").show();},function(){$(".sliderBtn").hide();});
+});
+</script>
+
 intro: 
   - excerpt: 'Our world is fundamentally quantum mechanical. '
 feature_row:
