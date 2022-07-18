@@ -3,3 +3,5 @@ main:
     url: /publications/
   - title: "About"
     url: /about/
+  - title: "Resources"
+    url: /resources/
