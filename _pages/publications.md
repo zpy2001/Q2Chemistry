@@ -17,7 +17,7 @@ permalink: /publications/
 
       <tr>
            <td width="100%" height="70"><span lang="EN-US"><ol start="3"><li>
-              <a name="Y2022"><b>Assignment 1</b><br>
+              <a name="Y2022"><b>Assignment 1</b></a><br>
               Zhou Pengyu <br>           
               <em>UCAS compiler principle class</em> <b>2022</b>, score:10.
               [<a href="https://github.com/zpy2001/2022-UCAS-Compile_Principle_homework/blob/main/Assignment1.pdf">git</a>]
