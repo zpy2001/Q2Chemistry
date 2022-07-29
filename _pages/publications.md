@@ -7,9 +7,8 @@ permalink: /publications/
 <div class="pub-full-list">
     <div class="pub-year">
         <ul>
-            <li><a href="#Y2022">2022(1)</a></li>
             <li><a href="#Y2021">2021(1)</a></li>
-            <li><a href="#Y2020">2021(1)</a></li>
+            <li><a href="#Y2020">2020(1)</a></li>
         </ul>
     </div>
     <div class="pub-list">
