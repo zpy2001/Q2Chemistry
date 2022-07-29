@@ -29,8 +29,8 @@ permalink: /publications/
            <td width="100%" height="70"><span lang="EN-US"><ol start="1"><li>
               <a name="Y2020"><b>Simulating Periodic Systems on a Quantum Computer Using Molecular Orbitals</b></a><br>
               Jie Liu, Lingyun Wan, Zhenyu Li<sup>*</sup>, and Jinlong Yang<sup>*</sup> <br>           
-              <em>Journal of Chemical Theory and Computation</em> <b>2020</b> 16 (11) 6904-6914.
-              [<a href="https://pubs.acs.org/action/showCitFormats?doi=10.1021/acs.jctc.0c00881&ref=pdf"> DOI</a>]
+              <em>Journal of Chemical Theory and Computation</em> <b>2020</b> 16 (11), 6904-6914.
+              [<a href="https://pubs.acs.org/action/showCitFormats?doi=10.1021/acs.jctc.0c00881&ref=pdf">DOI</a>]
               </li></ol>
             </span></td>
          </tr>
