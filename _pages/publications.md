@@ -9,6 +9,7 @@ permalink: /publications/
         <ul>
             <li><a href="#Y2022">2022(1)</a></li>
             <li><a href="#Y2021">2021(1)</a></li>
+            <li><a href="#Y2020">2021(1)</a></li>
         </ul>
     </div>
     <div class="pub-list">
@@ -17,20 +18,22 @@ permalink: /publications/
 
       <tr>
            <td width="100%" height="70"><span lang="EN-US"><ol start="2"><li>
-              <a name="Y2022"><b>Simulating Periodic Systems on a Quantum Computer Using Molecular Orbitals</b></a><br>
+              <a name="Y2021"><b>Equation-of-Motion Theory to Calculate Accurate Band Structures with a Quantum Computer</b></a><br>
+              Yi Fan, Jie Liu, Zhenyu Li<sup>*</sup>, and Jinlong Yang <br>           
+              <em>The Journal of Physical Chemistry Letters</em> <b>2021</b> 12 (36), 8833-8840.
+              [<a href="https://pubs.acs.org/action/showCitFormats?doi=10.1021/acs.jpclett.1c02153&ref=pdf">DOI</a>]
+              </li></ol>
+            </span></td>
+         </tr>
+
+      <tr>
+           <td width="100%" height="70"><span lang="EN-US"><ol start="1"><li>
+              <a name="Y2020"><b>Simulating Periodic Systems on a Quantum Computer Using Molecular Orbitals</b></a><br>
               Jie Liu, Lingyun Wan, Zhenyu Li<sup>*</sup>, and Jinlong Yang<sup>*</sup> <br>           
-              <em>THE JOURNAL OF PHYSICAL CHEMISTRY</em> <b>2022</b>.
-              [<a href="https://github.com/zpy2001/Q2Chemistry/blob/master/publication/Simulating%20Periodic%20Systems%20on%20a%20Quantum%20Computer%20Using%20Molecular%20Orbitals.pdf">git</a>]
+              <em>Journal of Chemical Theory and Computation</em> <b>2020</b> 16 (11) 6904-6914.
+              [<a href="https://pubs.acs.org/action/showCitFormats?doi=10.1021/acs.jctc.0c00881&ref=pdf"> DOI</a>]
               </li></ol>
             </span></td>
          </tr>
         
-      <tr>
-           <td width="100%" height="70"><span lang="EN-US"><ol start="1"><li>
-              <a name="Y2021"><b>Equation-of-Motion Theory to Calculate Accurate Band Structures with a Quantum Computer</b></a><br>
-              Yi Fan, Jie Liu, Zhenyu Li<sup>*</sup>, and Jinlong Yang <br>           
-              <em>THE JOURNAL OF PHYSICAL CHEMISTRY</em> <b>2021</b>.
-              [<a href="https://github.com/zpy2001/Q2Chemistry/blob/master/publication/Equation-of-Motion%20Theory%20to%20Calculate%20Accurate%20Band%20Structures%20with%20a%20Quantum%20Computer.pdf">git</a>]
-              </li></ol>
-            </span></td>
-         </tr>
+
